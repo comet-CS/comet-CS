@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Miloga!
+
+## 👨‍💻 About Me
+- **Just a basic coder, nothing special.**
+- 🖥️ Mainly working with **TypeScript** and **C#**
+- 🌐 Focused on **web development**
+- 🎨 Anime fan
+
+## 🚀 Projects
+- **Klyp**: [klyp2.xyz](https://klyp2.xyz/) _(already on my profile)_
+
+## 🌟 Connect With Me
+- **Discord:** Miloga  
+- **Server:** [discord.gg/hzMdmKe3nz](https://discord.gg/hzMdmKe3nz)
+
+---
 
 <!--
-**comet-CS/comet-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Nothing special to add here, just doing my thing. Feel free to reach out!
 -->
