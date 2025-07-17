@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - **Just a basic coder, nothing special.**
-- 🖥️ Mainly working with **TypeScript** and **C#**
+- 🖥️ Mainly working with **TypeScript** and **Python**
 - 🌐 Focused on **web development**
 - 🎨 Anime fan
 
